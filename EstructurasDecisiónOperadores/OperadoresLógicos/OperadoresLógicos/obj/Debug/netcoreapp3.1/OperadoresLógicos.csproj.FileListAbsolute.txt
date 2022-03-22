@@ -1,0 +1,14 @@
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\bin\Debug\netcoreapp3.1\OperadoresLógicos.exe
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\bin\Debug\netcoreapp3.1\OperadoresLógicos.deps.json
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\bin\Debug\netcoreapp3.1\OperadoresLógicos.runtimeconfig.json
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\bin\Debug\netcoreapp3.1\OperadoresLógicos.runtimeconfig.dev.json
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\bin\Debug\netcoreapp3.1\OperadoresLógicos.dll
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\bin\Debug\netcoreapp3.1\OperadoresLógicos.pdb
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.csproj.AssemblyReference.cache
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.AssemblyInfoInputs.cache
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.AssemblyInfo.cs
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.csproj.CoreCompileInputs.cache
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.dll
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.pdb
+D:\OneDrive Empresarial\OneDrive - ilta\TALENDIG C#\C#\EstructurasDecisiónOperadores\OperadoresLógicos\OperadoresLógicos\obj\Debug\netcoreapp3.1\OperadoresLógicos.genruntimeconfig.cache
